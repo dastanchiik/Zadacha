@@ -15,3 +15,7 @@ public class Main {
         System.out.println(percent+" Орунду сан");
     }
 }
+
+
+
+
